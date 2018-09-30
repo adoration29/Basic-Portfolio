@@ -1,0 +1,62 @@
+/* styling the about me page
+*/
+
+h1,h2,h3  {
+
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+nav{
+    display: inline-block;
+    float: right;
+
+}
+
+header{
+    text-align: left;
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+.center{
+    width: 960px;
+}
+section{
+    background-color: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    columns: #777777;
+
+}
+.main{
+    background-color: #ffffff;
+    border-color: #dddddd;
+
+}
+
+footer{
+    background-color: #666666;
+}
+.down{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.portfolio{
+    margin: 40px;
+    padding: 0;
+}
+nav{
+    display: inline;
+}
+.container{
+ width: 960px;
+
+}
+img{
+    display: initial;
+    margin-left: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    border: 3px solid #4aaaa5;
+}
